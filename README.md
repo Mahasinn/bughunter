@@ -26,7 +26,7 @@ If you find this tool useful, don't forget to **star ⭐** this repository and *
   * **Bypass & Evasion:**
       * Includes CloudFlare bypass attempts (using `cloudscraper` and Playwright).
       * Uses various User-Agents and WAF Bypass payloads.
-  * **Comprehensive Reporting:** Automatically generates reports in multiple formats (`.html`, `.json`, `.md`, `.csv`) in the `scan_results` directory, complete with an interactive dashboard.
+  * **Comprehensive Reporting:** Automatically generates reports in multiple formats (`.html`, `.json`, `.md`, `.csv`) in the `scan_results` directory, complete with an interactive dashboard
   * **Configurable:** All payloads and settings (like common paths, API paths, and user agents) can be customized via the `config.json` file.
   * **Other Features:** Includes a proxy downloader, login bruteforce, and automatic user registration attempts.
 
